@@ -26,8 +26,4 @@ RSHub utilizing **tokens** to run, query, and download results. Register your ac
 
     > This demo estimates multilayer brightness temperature and/or backscatter of snow using DMRT-BIC model.
 
-- [x] **[Snow demo 3](https://github.com/zjuiEMLab/RShub_demo/blob/main/Snow-demo-3.ipynb): Comparison of backscatter estimates from two snow models**
-
-    > This demo compares the multilayer backscatter of snow estimated from DMRT-BIC model and DMRT-QMS model.
-
 - [ ] **Multi-layer Soil Model (upcoming)**
